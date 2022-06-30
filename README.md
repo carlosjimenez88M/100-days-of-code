@@ -1,5 +1,5 @@
 
-# 100 days to code
+# 100 days of code
 
 My goal with 100 days to code are : combine Software Design with programming and use this to create different pipelines for Machine Learning models. As well learn new skills with challenges.
 

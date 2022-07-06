@@ -7,6 +7,7 @@ My goal with 100 days to code are : combine Software Design with programming and
 | Day  | Description| Language/Tools  | Documentation | Dataset | Difficulty |Code|
 | ---- | -----------| --------------- | ------------- | ------- | ---------- |----|
 |   1  |The goal is to identify as many words that meet the following criteria:i)The word must be at least four letters long.ii)The word must include the central letter.iii)The word cannot include any letter beyond the seven given letters.|R|[fivethirtyeight](https://fivethirtyeight.com/features/can-you-solve-the-vexing-vexillology/)|[words](https://norvig.com/ngrams/enable1.txt)|⭐️⭐️⭐️|[Code](https://github.com/carlosjimenez88M/100-days-of-code/blob/master/1/puzzle.r)|
+|   2  |Design Tensorflow model|Python|[TF](https://www.tensorflow.org/resources/libraries-extensions)|NA|⭐️|[Code](https://github.com/carlosjimenez88M/100-days-of-code/blob/master/2/simple_nn.py)|
 
 
 

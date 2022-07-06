@@ -35,3 +35,5 @@ new_y = 5.0
 prediction = model.predict([new_y])[0]
 print(prediction[0])
 
+
+# %%
